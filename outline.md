@@ -35,7 +35,7 @@ First Half:
 - Decimal & Binary Numbering System
 - Converting Decimal <-to-> Binary
 - Computer Logic
-- Phyiscal Logic Gates (AND / OR / NOT / NAND / XOR) -> Use [Logic Gates JS](https://content.codecademy.com/courses/logic-gates/logic.html)
+- Physical Logic Gates (AND / OR / NOT / NAND / XOR) -> Use [Logic Gates JS](https://content.codecademy.com/courses/logic-gates/logic.html)
 
 Second Half:
 
