@@ -15,6 +15,24 @@
 
 [Codecademy Logic Gates Site](https://content.codecademy.com/courses/logic-gates/logic.html)
 
+## Learning Standards
+
+- Learning Standard 1
+  - Demonstrate understanding of the decimal and binary numbering systems through number conversion
+- Learning Standard 2
+  - Discuss binary conversion methods in programming language in guided conversation
+- Learning Standard 3
+  - Understand the purpose of binary data in digital processing and the advantages/disadvantages of other systems
+- Learning Standard 4
+  - Evaluate binary data through a series of simple hardware components and logic processors
+
+There are several "models" of learning, I am using an the models I was trained on [Instructor's Manual, Chpt 3, pg 15](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/media/05_aih_chapter_3.pdf), it is geared more toward the adult learner than most of the childhood models I have found, though really there aren't too many diffrences. Essentially there are four basic levels of learning, remembered with the mnemonic RUAC:
+
+- Rote: Memorization of a subject
+- Understanding: Comprehension of a subject
+- Application: Using the understanding a subject in a meaningful way
+- Correlation: Understanding and applying what has been learned into the larger topic of what has already or is yet to be learning
+
 ## Lesson Description
 
 This lesson will introduce the student to a formal lesson on the binary number system. By now the user has come in contact with binary on a number of occassions although it may not have been thoroughly explained. The lesson will use everyone familiarity with the decimal system to create an understanding of how numbers and information are stored through 'bits' of information. The student will learn why computers and electrical devices use binary and the advantages and disadvantages that that creates. After a binary conversion exercise, this mini lesson will take students on a deep dive into the fundamental microchips that make up the modern computer. By looking at a variety of simple logic gates (AND/OR/NAND/NOT/XOR) the student will be able how binary information is processed and how these components build upon each other to create more robust computing systems.
@@ -35,7 +53,7 @@ First Half:
 - Decimal & Binary Numbering System
 - Converting Decimal <-to-> Binary
 - Computer Logic
-- Physical Logic Gates (AND / OR / NOT / NAND / XOR) -> Use [Logic Gates JS](https://content.codecademy.com/courses/logic-gates/logic.html)
+- Phyiscal Logic Gates (AND / OR / NOT / NAND / XOR) -> Use [Logic Gates JS](https://content.codecademy.com/courses/logic-gates/logic.html)
 
 Second Half:
 
@@ -62,6 +80,7 @@ Second Half:
   - Base 10 counting breakdown
   - Base 2 counting breakdown
   - Binary Numbers, multiple examples
+  - Most languages have methods to do this
 - Instructions:
   - Click next to proceed
 ARTWORK / APPLET -> [This would be awesome](https://studio.code.org/s/csp1-2018/lessons/5/levels/2)
