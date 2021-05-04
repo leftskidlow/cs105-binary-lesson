@@ -9,6 +9,12 @@
 
 [Code.org: Binary Numbers](https://curriculum.code.org/csp-18/unit1/5/)
 
+[CS: Binary](https://edu.gcfglobal.org/en/computer-science/binary/1/)
+
+[Binary Odometer](https://studio.code.org/s/csp1-2018/lessons/5/levels/2)
+
+[Codecademy Logic Gates Site](https://content.codecademy.com/courses/logic-gates/logic.html)
+
 ## Lesson Description
 
 This lesson will introduce the student to a formal lesson on the binary number system. By now the user has come in contact with binary on a number of occassions although it may not have been thoroughly explained. The lesson will use everyone familiarity with the decimal system to create an understanding of how numbers and information are stored through 'bits' of information. The student will learn why computers and electrical devices use binary and the advantages and disadvantages that that creates. After a binary conversion exercise, this mini lesson will take students on a deep dive into the fundamental microchips that make up the modern computer. By looking at a variety of simple logic gates (AND/OR/NAND/NOT/XOR) the student will be able how binary information is processed and how these components build upon each other to create more robust computing systems.
@@ -84,4 +90,3 @@ ARTWORK / APPLET -> [This would be awesome](https://studio.code.org/s/csp1-2018/
   - Focus on Computer Architecture related deep dive to components
 - Instructions
   - Play around with the logic gates to understand how the work
-  
